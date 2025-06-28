@@ -43,7 +43,6 @@ This project proposes a novel adversarial attack pipeline designed to fool ML-ba
 
 ## 📂 Folder Structure
 
-- [`/dataset`](./dataset) – Dataset directory.
 - [`/model`](./model) – Trained ML models.
 - [`/results`](./results) – Performance metrics, graphs, mutation logs.
 - [`/src`](./src) – Source code for Genetic Algorithm and evaluation logic.
